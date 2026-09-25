@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Seif Eldeen Ahmed 👨‍💻
 
-<!--
-**seif-eldeen-ahmed-2005/seif-eldeen-ahmed-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Data Analyst | Transforming complex data into interactive Python, SQL, & Power BI dashboards[cite: 3].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+* **Data Analysis & Visualization:** Python, SQL, Power BI, Excel
+
+---
+
+## 🚀 Featured Projects
+
+* **[Healthcare Data Analysis](https://github.com/seif-eldeen-ahmed-2005/Healthcare-Analytics-Dashboard)** — Power BI
+* **[Football Match Analytics](https://github.com/seif-eldeen-ahmed-2005/Premier-League-Analytics-Dashboard)** — Power Query & Power BI
+* **[Superstore Sales Analysis](https://github.com/seif-eldeen-ahmed-2005/Superstore-Sales-Analysis)** — Excel, Power Query & Power Pivot
+
+---
+
+## 📞 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/seif-eldeen-ahmed-835026310)
+* [GitHub](https://github.com/seif-eldeen-ahmed-2005)
