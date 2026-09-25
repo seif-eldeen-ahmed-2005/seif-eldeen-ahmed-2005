@@ -1,6 +1,6 @@
 # Hi, I'm Seif Eldeen Ahmed 👨‍💻
 
-> Data Analyst | Transforming complex data into interactive Python, SQL, & Power BI dashboards[cite: 3].
+> Data Analyst | Transforming complex data into interactive Python, SQL, & Power BI dashboards.
 
 ---
 
